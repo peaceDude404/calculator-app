@@ -1,6 +1,7 @@
 # calculator
 
-my first project
+my first project.
+This calculator can do basic operation like addition,subtraction,multipilcation and division.
 
 ## Getting Started
 
